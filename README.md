@@ -22,7 +22,6 @@
       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> -->
     </div>
-</div>
     
  ##
   
@@ -31,7 +30,9 @@
   <a href="https://www.instagram.com/alan.scarvalho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alan.sc2016.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="mailto:alan.sousacarvalho@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>   
-
+    
+   ![Snake animation](https://github.com/alansousacarvalho/alansousacarvalho/blob/output/github-contribution-grid-snake.svg) 
+    
   </div>
    
   
