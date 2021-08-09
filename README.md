@@ -2,7 +2,7 @@
 
 - 🎯 Focado em aprender sobre tudo relacionado a Desenvolvimento Web - Front End.
 - 🥇 Praticando HTML, CSS e Bootstrap.
-- 🚀 Tenho como objetivo, aprender as tecnologias: JavaScript, PHP, SASS, Ajax, Jquery, MySql e WordPress.
+- 🚀 Tenho como objetivo aprender as tecnologias: JavaScript, PHP, SASS, Ajax, Jquery, MySql e WordPress.
 
 ##
 
