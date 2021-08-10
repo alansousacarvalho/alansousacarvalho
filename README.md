@@ -1,6 +1,6 @@
 ### Hello World, I'm Alan de Sousa! 😄 ✌️
 
-- 🎯 Focado em aprender sobre tudo relacionado a Desenvolvimento Web - Front End.
+- 🎯 Apaixonado e focado em aprender sobre tudo relacionado a Desenvolvimento Web - Front End.
 - 🥇 Praticando HTML, CSS e Bootstrap.
 - 🚀 Tenho como objetivo aprender as tecnologias: JavaScript, SASS, Angular, React e VueJS;
 
