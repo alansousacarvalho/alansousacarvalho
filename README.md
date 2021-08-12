@@ -1,4 +1,4 @@
-### Hello World, I'm Alan de Sousa! 😄 ✌️
+## Hello World, I'm Alan de Sousa! 😄 ✌️
 
 - 🎯 Apaixonado e focado em aprender sobre tudo relacionado a Desenvolvimento Web - Front End.
 - 🥇 Praticando HTML, CSS e Bootstrap.
@@ -10,7 +10,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansousacarvalho&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ## Skills ![image](https://user-images.githubusercontent.com/88456324/129208078-1bdbf02c-805b-4a3d-9609-41510c41a1ec.png)
+  ## Skills
 
   <div align="center">
     <div style="display: inline_block"><br>
@@ -31,9 +31,10 @@
       <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
+   </div>
     
- ## 
-  
+    
+ ## Contato
   <div align="center"> 
   <a href="https://www.linkedin.com/in/alan-de-sousa-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
