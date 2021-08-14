@@ -10,7 +10,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansousacarvalho&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ## Skills
+  ## Skills 👨🏻‍💻
 
   <div align="center">
     <div style="display: inline_block"><br>
@@ -34,7 +34,7 @@
    </div>
     
     
- ## Contact
+ ## Contact 📱
   <div align="center"> 
   <a href="https://www.linkedin.com/in/alan-de-sousa-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
