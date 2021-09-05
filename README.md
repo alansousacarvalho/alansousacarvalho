@@ -2,7 +2,7 @@
 
 - 🎯 Apaixonado e focado em aprender sobre tudo relacionado a Desenvolvimento Web - Front End.
 - 🥇 Praticando HTML, CSS, Bootstrap e JavaScript.
-- 🚀 Tenho como objetivo aprender as tecnologias: Angular, SASS, React e VueJS;
+- 🚀 Tenho como objetivo aprender as tecnologias: TypeScript e Angular 
 
 <div>
   <a href="https://github.com/alansousacarvalho">
