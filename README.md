@@ -1,8 +1,8 @@
 ## Hello World, I'm Alan de Sousa! 😄 ✌️
 
 - 🎯 Apaixonado e focado em aprender sobre tudo relacionado a Desenvolvimento Web - Front End.
-- 🥇 Praticando HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular e WordPress.
-- 🚀 Tenho como objetivo aprender a tecnologia: SASS, UI/UX Design e React
+- 🥇 Conhecimentos: HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular e WordPress.
+- 🚀 Tenho como objetivo aprender as tecnologias: SASS, UI/UX Design e React
 
 <div>
   <a href="https://github.com/alansousacarvalho">
