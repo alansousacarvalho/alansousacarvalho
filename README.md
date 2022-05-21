@@ -1,7 +1,7 @@
 ## Hello World, I'm Alan de Sousa! 😄 ✌️
 
 - 🎯 Apaixonado e focado em aprender sobre tudo relacionado a Desenvolvimento Web - Front End.
-- 🥇 Conhecimentos: HTML5, CSS3, Bootstrap 5, JavaScript, TypeScript, Angular e WordPress.
+- 🥇 Conhecimentos: HTML5, CSS3, Bootstrap 5, JavaScript, TypeScript e Angular.
 - 🚀 Tenho como objetivo aprender as tecnologias: SASS, UI/UX Design e React.
 
 <div>
