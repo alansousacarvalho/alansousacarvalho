@@ -2,7 +2,7 @@
 
 - 🎯 Apaixonado e focado em aprender sobre tudo relacionado a Desenvolvimento Web - Front End.
 - 🥇 Conhecimentos: HTML5, CSS3, Bootstrap 5, JavaScript, TypeScript e Angular.
-- 🚀 Tenho como objetivo aprender as tecnologias: SASS, UI/UX Design e React.
+- 🚀 Tenho como objetivo aprender as tecnologias: SASS, UI/UX Design e RxJS.
 
 <div>
   <a href="https://github.com/alansousacarvalho">
