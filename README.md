@@ -1,7 +1,7 @@
 ## Hello World, I'm Alan de Sousa! 😄 ✌️
 
 - 🎯 Apaixonado e focado em aprender sobre tudo relacionado a Desenvolvimento Web - Front End.
-- 🥇 Conhecimentos: HTML5, CSS3, Bootstrap 5, JavaScript, TypeScript, Angular e Testes unitários (Jasmine e Karma).
+- 🥇 Conhecimentos: HTML5, CSS3, Bootstrap 5, JavaScript, TypeScript, Angular, Testes unitários (Jasmine e Karma), Java, Spring Boot, JPA/Hibernate, Maven, Git,  MySQL e MongoDB.
 - 🚀 Tenho como objetivo aprender as tecnologias: SASS, UI/UX Design e RxJS.
 
 <div>
@@ -10,6 +10,8 @@
 </div>
   
   ## Skills :mortar_board:
+
+  ### Front-end
 
   <div>
     <div align="center" style="display: inline_block"><br>
@@ -29,6 +31,20 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="center" alt="Alan-Jasmine" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+   </div>
+
+   ### Back-end
+   <div align="center" style="display: inline_block"><br>
+      <img align="center" alt="Alan-JAVA" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img align="center" alt="Alan-SPRING" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img align="center" alt="Alan-HIBERNATE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img align="center" alt="Alan-MAVEN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img align="center" alt="Alan-MYSQL" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    </div>
     
  ## Contact 📱
